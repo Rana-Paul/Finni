@@ -14,7 +14,7 @@ export default function Home() {
       Autism care designed for your<span className="text-blue-600">child</span> 
     </h1>
     <p className="mt-5 max-w-prose text-zinc-700 sm:text-lg">
-    Finni provides world-class behavioral health care for your child, right at home!
+    Finni provides world-class behavioral health care for your child, right at home...
     </p>
 
     <Link
@@ -22,7 +22,7 @@ export default function Home() {
       href="/dashboard"
       target="_blank"
     >
-      Get started <ArrowRight className="ml-2 h-5 w-5" />
+      Get started <ArrowRight className="ml-2 h-5 w-5"/>
     </Link>
   
 
@@ -76,7 +76,7 @@ export default function Home() {
         <div className="mb-12 px-6 lg:px-8">
           <div className="mx-auto max-w-2xl sm:text-center">
             <h2 className=" mt-2 font-bold text-4xl text-gray-900 sm:text-5xl">
-              Start chatting with your document
+              Start changing your health using Finni
             </h2>
             <p className="mt-4 text-lg text-gray-600">
               Chatting with your document is easy with PagePaul.Ai
